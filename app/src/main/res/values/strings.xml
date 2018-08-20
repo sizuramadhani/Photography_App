@@ -1,0 +1,426 @@
+<resources>
+    <string name="app_name">Photography</string>
+    <string name="camera1_compact_digital">
+        Kamera jenis ini merupakan kamera digital paling simpel.\n
+        Dengan ukurannya yang tidak telalu besar dan pas di kantong atau biasa disebut kamera saku,\n
+        menjadikan kamera ini banyak dipilih untuk pengguna yang membutuhkan kamera yang hanya sekedar mendapat foto saja.\n
+        Dengan fitur standar namun memiliki mobilitas tinggi.\n
+        Kamera ini juga tidak mempunyai shoot mode dialer.\n\n
+Biasanya untuk menekan harga kamera ini memiliki dua jenis input bateri\n
+        , batre AAA atau pun bateri bawaan yang bisa di charge.\n
+        Yang menggunakan bateri AAA harganya jauh lebih murah.\n\n
+
+Cocok digunakan pada Event indoor, Event outdoor yang tidak terlalu mengandalkan zoom,\n
+        dokumentasi standar, Anda yg memiliki mobilitas tinggi dan tidak mau repot.\n\n
+
+Ciri-cirinya     :\n\n
+
+Ada mode exposure manual\n
+Berukuran sensor besar\n
+Dapat memilih format foto RAW\n
+Punya hotshoe untuk dudukan flash external/aksesoris\n
+Bodi kamera biasanya lebih besar dari biasanya.\n\n
+Kelebihan       :\n\n
+
+Sensor Yang Lebih Kecil\n
+Ukuran Lebih Kecil Dan Mudah Dibawa Keman-Mana\n
+Harga Terjangkau\n\n
+Kekurangan   :\n\n
+
+Auto Focus Yang Lambat\n
+Kualitas gambar yang kurang bersih\n
+Kualitas rentang dinamis yang kurang baik\n
+    </string>
+    <string name="camera2_prosumer">
+        Kata prosumer  diambil dari PROfesional dan conSUMER.\n
+        Kamera  yang berjenis point and shoot ini mempunyai fitur lebih lengkap dibandingkan dengan kamera saku,\n
+        antara lain pengaturan exposure dan iso secara manual. \n
+        Ada beberapa orang yang menggunakan kamera jenis ini untuk memulai belajar fotografi karena dirasa lebih praktis,\n
+        dan fungsional daripada kamera DSLR.\n\n
+
+ciri-ciri  :\n\n
+
+Kamera prosumer terdiri dari dua jenis, yaitu Kamera prosumer berbentuk Kamera digital SLR (DSLR-like)\n
+        yang juga disebut Bridge Camera\n
+dengan lensa tetap yang tak dapat dilepas, sedangkan MILC walaupun lensanya dapat dilepas,\n
+        tetapi tidak memiliki Cermin Reflex dan tentunya juga tidak memiliki Optical Viewfinder dan,\n
+        sebagai gantinya dipakai Electronical Viewfinder atau layar LCD saja.\n\n
+Kelebihan      :\n\n
+
+Kamera digital prosumer memiliki bodi mirip kamera DSLR dan,\n
+        berlensa panjang namun tidak bisa dilepas-pasang layaknya lensa pada kamera DSLR.\n
+Untuk ukuran lingkaran lensa, prosumer cenderung lebih kecil dari pada DSLR dan lebih besar dari compact.\n
+Untuk fitur, kamera prosumer menyerupai DSLR. Setingan programnnya bisa diatur secara manual.\n
+        Aperture/diafraghma, ISO dan Shutter Speed bisa diatur secara manual.\n
+Dengan kemampuan dan tekhnologi yang ada, prosumer dianggap lebih praktis untuk fotografi sehari-hari.\n\n
+Kekurangan   :\n\n
+
+Sensor prosumer yang lebih kecil disbanding DSLR berakibat kualitas hasil foto tidak bisa sebaik kamera DSLR\n
+Kecepatan auto focus dan jeda antar satu foto dengan foto selanjutnya juga\n
+merupakan kendala bagi yang membutuhkan moment penting dan cepat.\n
+    </string>
+    <string name="camera3_bridge_camera">
+        jenis kamera digital prosumer atau disebut juga Bridge CDC (Compact Digital Camera).\n
+        Jenis kamera ini disebut bridge karena menjembatani pengguna kamera pocket untuk mendapatkan fitur dan,\n
+        kualitas yang lebih baik. Kualitas jenis kamera ini berada diantara kamera pocket dan kamera profesional (DSLR).\n\n
+
+Ciri-ciri  :\n\n
+
+kemampuan zoomnya yang saat ini sudah melampaui 50x bahkan 60x dan untuk itu diperlukan sistem stabilisasi yang mumpuni,\n
+        sehingga ada Bridge Camera yang dilengkapi dengan 5-axis Image Stabilization\n
+        (Pitch, Yaw, Roll, Vertical Shift and Horizontal Shift),\n
+        sehingga lebih unggul dari pada Sistem Stabilisasi yang dimiliki oleh Kamera digital SLR.\n
+Image Stabilization yang unggul juga berguna untuk pengambilan gambar video sambil berjalan dan,\n
+        tentunya juga dapat mengambil foto dengan Kecepatan yang lebih lambat.\n\n
+
+Kelebihan      :\n\n
+
+1. Punya lensa yang bisa zoom sangat jauh (ideal untuk foto subjek yang jauh seperti burung,\n
+        atau pemandangan seperti detail gunung dll.\n
+2. Sebagai perbandingannya, lensa kamera superzoom dapat mencapai lebih dari 500mm.\n
+        Beberapa diantavranya mencapai 1000mm.\n
+        Sedangkan untuk kamera DSLR kebanyakan 200-300mm dan itu pun perlu membeli lensa zoom telefoto terlebih dahulu.\n
+3. Ukuran dan beratnya lebih ringan dan sedikit lebih kecil\n
+4. Beberapa kamera memiliki kecepatan foto berturut-turut melebihi 10 foto per detik\n
+5. Relatif murah dibandingkan kamera DSLR\n\n
+
+Kekurangan :\n\n
+
+1 . Kualitas foto masih jauh dibandingkan hasil kamera DSLR karena pemakaian sensor foto yang sangat kecil.\n
+    2.    Kualitas foto yang dihasilkan lebih menyerupai kualitas kamera saku atau ponsel canggih.\n
+3. Karena bukaan lensa biasanya makin kecil saat zooming, maka kita perlu cahaya lingkungan yang terang.\n
+       4.  Jika cahaya agak gelap, seperti sore hari atau di dalam ruangan, kualitas foto akan sangat menurun.\n
+        Mengunakan tripod akan sangat membantu di dalam ruangan.\n
+5. Tidak bisa ganti-ganti lensa seperti kamera DSLR\n
+6. Banyak\n
+    </string>
+    <string name="camera4_consumer">
+        DSLR bisa ganti lensa, harga relatif kompetitif 4 juta sampe 6 jutaan. \n
+        Dengan Lensa Kit 18-55, kualitas gambar yang bagus menjadi pilihan anak muda sekarang.\n\n
+
+Ciri-ciri        :\n\n
+
+Bisa Ganti Lensa\n
+Memiliki Jenis Body Warna Lebih dari 1\n
+Harga Relatif murah 4 – 6 Juta\n
+Menggunakan Lensa Kit 18-55mm\n\n
+Kelebihan      :\n\n
+
+o   Lebih Fleksibilitas\n
+
+o   Gampang Upgradable\n
+
+o   Kinerja Yang Lebih Baik\n
+
+o   Kualitas Gambar Lebih Baik\n
+
+Kekurangan :\n\n
+
+harganya yang terbilang relatif mahal jika pengguna masih tergolong di dalam kelas  pemula di dunia fotografi\n
+lebih besar dan lebih berat dari camdig\n
+orang akan merasa sulit untuk mengubah lensa atau terus mengoperasikan banyak tombol.\n
+    </string>
+    <string name="camera5_mirorrless_camera">
+        Hybrid atau Mirorrless ini adalah kamera mirip DSLR tanpa mirror dengan bentuk yg kompak.\n
+        Biasanya memiliki kemampuan yang sama dengan DSLR dengan sensor 4/3 dan APSC memberikan kualitas gambar yang sama ,\n
+        dan bisa ganti lensa memberikan nilai + sendiri. \n
+        Bentuk kompak + kualitas bagus.\n\n
+
+Ciri-ciri        :\n\n
+
+Ukurannya yang relatif kecil,\n
+Beratnya yang ringan,\n
+Lensa yang dapat diganti-ganti,\n
+Hasil bidikan yang dihasilkan juga tidak jauh beda dengan DSLR,5\n\n
+Kelebihan      :\n\n
+
+memiliki kemampuan yang sama dengan DSLR dengan sensor 4/3 dan APSC memberikan kualitas gambar yang sama dan,\n
+        bisa ganti lensa memberikan nilai + sendiri.\n\n
+
+Kekurangan :\n\n
+
+gambar dalam jendela bidik dibalik secara horizontal (dari kiri ke kanan) yang mengakibatkan pembingkaian foto yang sulit,\n
+        terutama bagi pengguna yang belum berpengalaman atau dengan subjek yang bergerak\n
+    </string>
+    <string name="camera6_semipro_dslr">
+        Fullframe atau APSH kualitas ga perlu di ragukan dengan harga 20 ~ 50 jutaan.\n
+        Biasanya sih di gunakan di Studio Foto.\n
+
+Yang membedakan antara Pro dan Semi Pro adalah kemampuan sensor(CCD) dalam menangkap gambar.\n
+        Pada DSLR –Pro , CCD sudah mengadopsi 1/1 (terbuka penuh).\n
+        Kemudian pada memori D\n
+SLR-Pro sudah menggunakan High Speed Memory.\n
+        Disamping itu fasilitas fitur-fitur pada kedua jenis ini hampir sama,\n
+        bisa dioperasikan dengan berbagai pilihan program maupun manual.\n\n
+
+Ciri-ciri           :\n\n
+
+lensa yang dapat dibuka/diganti, sehingga fotografer dapat memilih lensa sesuai yang diinginkan.\n
+    </string>
+    <string name="camera7_boutique_camera">
+        Kamera Butik, Stylish dan Powerfull dengan rata-rata menggunakan sensor fullframe ( Leica M9 ) atau APS C ( X100 ),\n
+        dengan kualitas gambar yg tak perlu di ragukan.\n
+        Menurut Kai W seorang Fotografer dari Hongkong, \n
+        Kualitas Kamera Butik lebih bagus dari pada Fullframe DSLR seperti D3S,\n
+        dan Butik APSC seperti X100 mengalahkan EOS7D dari segi Image Quality menurut DXO Mark dengan bentuk yang Compact.\n
+        Dengan 69 Juta sapa yg mau beli ( Leica M9 ) dan X100 13 Juta dan Harga Lensa Kamera Buik juga mahal.\n\n
+
+Ciri-ciri           :\n\n
+
+rata-rata menggunakan\n
+Sensor Fullframe ( Leica M9 ) atau APS C ( X100 ) dengan kualitas gambar yg tak perlu di ragukan.\n
+Harganya cukup mahal\n\n
+Kelebihan       :\n\n
+
+Stylish dan Powerfull\n
+Kualitas lebih bagus dari pada Fullframe DSLR\n\n
+Kekurangan   :\n\n
+
+Harga lensa yang mahal\n
+    </string>
+    <string name="camera8_medium_formatdslr">
+        Kamera Medium Format merupakan kamera yang biasanya menggunakan rollfilm.\n
+        Besarnya format film pada kamera ini ditentukan oleh panjang foto yang dikekam diatas kamera.\n\n
+
+Kelebihan       :\n\n
+
+kualitas hasil foto yang bisa dicetak dengan ukuran besar,\n
+        sehingga kebanyakan kamera ini dipakai untuk tujuan komersial atau reproduksi\n\n
+
+kekurangan    :\n\n
+
+harga peralatan yang relatif mahal\n
+adanya keterbatasan dalam depth of field (DOF) pada lensa dengan sudut gambar  yang sama\n
+    </string>
+    <string name="tokoh1_alex_mendur">
+        AlexMendur\n\n
+        Alex Impurung Mendur (1907 - 1984)\n
+        adalah salah satu fotografer yang mengabadikan detik-detik proklamasi kemerdekaan Republik Indonesia 17 Agustus 1945.\n
+        Bersamanya adalah saudara kandungnya Frans Mendur yang turut mengabadikan peristiwa tersebut.\n
+        Kedua bersaudara ini merintis pendirian IPPHOS (Indonesia Press Photo Service) pada 2 Oktober 1946 di Jakarta.\n
+    </string>
+    <string name="tokoh2_darwis_triadi">
+         Darwis Triadi\n\n
+Andreas Darwis Triadi (lahir: Solo, Jawa Tengah, 15 Oktober 1954)\n
+        atau lebih dikenal dengan Darwis Triadi adalah seorang ahli fotografer glamor dan fashion senior Indonesia.\n
+Darwis Triadi mengembangkan minat fotografinya sejak tahun 1979.\n
+        Ilmu desain pun turut dipelajari untuk memperkaya kemampuan artistiknya.\n
+        Karena prestasinya yang terus meningkat,\n
+        dia diberi kepercayaan untuk menampilkan karyanya pada majalah tahunan Hasselblad yang berskala internasional di tahun 1990\n
+         Dalam kurun waktu bersamaan, ia sempat mempresentasikan slide andalannya dalam acara Photo Kina International Competition\n
+        di Köln, Jerman.\n
+        Kompetisi ini digelar dalam rangka Hasselblad International Annual.\n
+        Setahun kemudian, majalah internasional Vogue memajang karyanya pada artikel spesial tentang Indonesia.\n
+        Bron Elektronik AG dari Swiss, produsen lampu Broncolor, memilihnya untuk mengisi kalender Broncolor tahun 1997.\n
+        Darwis akhir-akhir ini sering membuat seminar,dan workshop tentang fotografi. \n
+        Dia juga telah mendirikan lembaga pendidikan fotografi di Jakarta Selatan.\n
+    </string>
+    <string name="tokoh3_ansel_adams">
+        Ansel Adams\n\n
+Ansel Easton Adams (lahir di San Francisco, California, 2 Agustus 1902 – meninggal 4 Oktober 1984 pada umur 82 tahun)\n
+        adalah fotografer Amerika Serikat dan seorang aktivis lingkungan\n
+        yang dikenal dengan foto-foto hitam putihnya mengenai Amerika Serikat Barat,\n
+        khususnya Taman Nasional Yosemite. Salah satu dari foto terkenalnya adalah Moonrise, Hernandez, New Mexico.\n
+Bersama Fred Archer, Adams mengembangkan sistem zona sebagai cara menentukan pajanan yang paling tepat,\n
+        dan menyesuaikan kontras hasil cetakan. Adams biasanya menggunakan kamera format besar.\n
+        Meskipun ukurannya besar, berat, perlu waktu untuk pemasangan,\n
+        dan harga filmnya mahal, kamera format besar menghasilkan foto resolusi tinggi dan tajam.\n
+Adams mendirikan Group f/64 bersama rekan-rekannya sesama fotografer,\n
+        Edward Weston and Imogen Cunningham.\n
+        Koleksi paling lengkap dari fotografer Group f/64 kini dimiliki oleh Center for Creative Photography\n
+        dan Museum Seni Modern San Francisco.\n
+        Foto-foto Adams telah menjadi abadi dan banyak direproduksi untuk kalender, poster, dan buku.\n
+    </string>
+    <string name="tokoh4_joseph">
+         JOSEPH NICEPHORE NIEPCE ( 1765 – 1833 )\n\n
+Di Prancis Joseph Nicephore Niepce melakukan berbagai percobaan dengan kamera yang dilengkapi dengan lensa.\n\
+        Begitu pula dengan macam – macam bahan kimia.\n
+        Dalam tahun 1816 dia berhasil membuat gambar negatif dengan cahaya diatas kertas\n
+        yang dibuatnya peka lebih dahulu dengan perak chloride.\n
+        Kemudian dalam tahun 1822 dia melumarkan larutan aspal dalam minyak lavendar\n
+        ke keatas sebidang plat yang terbuat dari campuran timah hitam dan timah putih.\n
+        Sesudah itu menyinarinya dalam kamera berjam – jam lamanya pada terik panas matahari.\n
+        Plat yang telah disinari itu diolahnya dalam campuran 1 bagian minyak lavender dengan 10 bagian minyak tanah.\n
+        Campuran minyak lavender dan minyak tanah itu dengan lambat melarutkan bagian aspal yang tidak kena cahaya\n
+        , sedangkan aspal yang kena cahaya tidak dapat larut. Dengan demikian dia langsung mendapat gambar yang positif.\n
+Pada tahun 1829 Niepce menukar plat timah dengan plat yang disepuh dengan perak.\n
+        Mungkin penemuannya inilah yang membawa Daguerre kemudian bekerjasama dengannya dalam penemuan berupa plat\n
+        yang dibuat peka dengan perak kemudian diberi uap iodina.\n
+        Niepce meninggal sebelum kerjasamanya menxapai hasil yang didambakannaya,\n
+        kerjasamanya itu dilanjutkan oleh putranya bernama Isidore.\n
+    </string>
+    <string name="sejarah_photograph">
+        Fotografi \n\n
+        (dari bahasa Inggris: photography, yang berasal dari kata dalam bahasa Yunani yaitu Photos: cahaya dan Grafo: Melukis)\n
+        adalah proses melukis/menulis dengan menggunakan media cahaya.\n
+Fotografi berarti proses atau metode untuk menghasilkan gambar atau foto dari suatu obyek\n
+        dengan merekam pantulan cahaya yang mengenai obyek tersebut pada media yang peka cahaya.\n
+        Alat paling populer untuk menangkap cahaya ini adalah kamera. \n
+        Tanpa cahaya, tidak ada foto yang bisa dibuat\n\n
+         </string>
+       <string name="sejarah_photograph1">
+           Sejarah Fotografi\n\n
+Sejarah Fotografi dimulai pada abad ke-19.\n
+           Tahun 1839 merupakan tahun awal kelahiran fotografi.\n
+           Pada saat itu, di Perancis dinyatakan secara resmi bahwa fotografi adalah sebuah terobosan teknologi.\n
+           Saat itu, rekaman dua dimensi seperti yang dilihat mata sudah bisa dibuat permanen.\n\n
+
+Sejarah fotografi bermula jauh sebelum Masehi. Pada abad ke-5 Sebelum Masehi (SM),\n
+           seorang pria bernama Mo Ti mengamati suatu gejala. \n
+           Jika pada dinding ruangan yang gelap terdapat lubang kecil (pinhole),\n
+           maka di bagian dalam ruang itu akan terefleksikan pemandangan di luar ruang secara terbalik lewat lubang tadi.\n
+           Mo Ti adalah orang pertama yang menyadari fenomena kamera obscura. \n\n
+
+Berabad-abad kemudian, banyak yang menyadari dan mengagumi fenomena ini,\n
+           sebut saja Aristoteles pada abad ke-3 SM dan seorang ilmuwan Arab Ibnu Al Haitam (Al Hazen)\n
+           pada abad ke-10 SM, yang berusaha untuk menciptakan serta mengembangkan alat yang sekarang dikenal sebagai kamera.\n
+           Pada tahun 1558, seorang ilmuwan Italia, Giambattista della Porta menyebut camera obscura pada sebuah kotak\n
+           yang membantu pelukis menangkap bayangan gambar.\n
+
+Nama kamera obscura diciptakan oleh Johannes Kepler pada tahun 1611\n
+           Johannes Kepler membuat desain kamera portable yang dibuat seperti sebuah tenda,\n
+           dan memberi nama alat tersebut kamera obscura. \n
+           Didalam tenda sangat gelap kecuali sedikit cahaya yang ditangkap oleh lensa\n
+            yang membentuk gambar keadaan di luar tenda di atas selembar kertas.\n
+   </string>
+    <string name="sejarah_photograph2">
+        Berbagai penelitian dilakukan mulai pada awal abad ke-17 ,\n
+        seorang ilmuwan berkebangsaan Italia – Angelo Sala menggunakan cahaya matahari\n
+        untuk merekam serangkaian kata pada pelat chloride,perak. \n
+        Tapi ia gagal mempertahankan gambar secara permanen.\n
+        Sekitar tahun 1800, Thomas Wedgwood, \n
+        seorang berkebangsaan Inggris bereksperimen untuk merekam gambar positif dari citra pada kamera obscura berlensa,\n
+        hasilnya sangat mengecewakan. Humphrey Davy melakukan percobaan lebih lanjut dengan chlorida perak,\n
+        tapi bernasib sama juga walaupun sudah berhasil menangkap imaji melalui kamera obscura tanpa lensa.\n\n
+
+Akhirnya, pada tahun 1824, seorang seniman lithography Perancis, Joseph-Nicephore Niepce (1765-1833),\n
+        setelah delapan jam meng-exposed pemandangan dari jendela kamarnya\n
+        melalui proses yang disebutnya Heliogravure (proses kerjanya mirip lithograph)\n
+        di atas pelat logam yang dilapisi aspal, berhasil melahirkan sebuah gambar yang agak kabur,\n
+        berhasil pula mempertahankan gambar secara permanen. \n
+        Ia melanjutkan percobaannya hingga tahun 1826, inilah yang akhirnya menjadi sejarah awal fotografi yang sebenarnya.\n
+        Foto yang dihasilkan itu kini disimpan di University of Texas di Austin, AS.\n
+    </string>
+    <string name="sejarah_photograph3">
+        Penelitian demi penelitian terus berlanjut hingga pata tanggal tanggal 19 Agustus 1839,\n
+        desainer panggung opera yang juga pelukis, Louis-Jacques Mande Daguerre (1787-1851)\n
+        dinobatkan sebagai orang pertama yang berhasil membuat foto yang sebenarnya:\n
+        sebuah gambar permanen pada lembaran plat tembaga perak yang dilapisi larutan iodin yang disinari selama satu setengah jam,\n
+        cahaya langsung dengan pemanas merkuri (neon). \n
+        Proses ini disebut daguerreotype. Untuk membuat gambar permanen,\n
+        pelat dicuci larutan garam dapur dan asir suling.\n
+        Januari 1839, Daguerre sebenarnya ingin mematenkan temuannya itu.\n
+        Akan tetapi, Pemerintah Perancis berpikir bahwa temuan itu sebaiknya dibagikan ke seluruh dunia secara cuma-cuma.\n
+        Fotografi kemudian berkembang dengan sangat cepat.\n
+        Melalui perusahaan Kodak Eastman, \n
+        George Eastman mengembangkan fotografi dengan menciptakan serta menjual roll film dan kamera boks yang praktis,\n
+        sejalan dengan perkembangan dalam dunia fotografi melalui perbaikan lensa, shutter, film dan kertas foto.\n
+
+Tahun 1950, untuk memudahkan pembidikan pada kamera Single Lens Reflex maka mulailah digunakan prisma (SLR),\n
+        dan Jepang pun mulai memasuki dunia fotografi dengan produksi kamera Nikon yang kemudian disusul dengan Canon.\n
+        Tahun 1972 kamera Polaroid temuan Edwin Land mulai dipasarkan.\n
+        Kamera Polaroid mampu menghasilkan gambar tanpa melalui proses pengembangan dan pencetakan film\n\n
+
+        Kemajuan teknologi turut memacu fotografi secara sangat cepat.\n
+        Kalau dulu kamera sebesar tenda hanya bisa menghasilkan gambar yang tidak terlalu tajam,\n
+        kini kamera digital yang cuma sebesar dompet mampu membuat foto yang sangat tajam dalam ukuran sebesar koran.\n
+    </string>
+    <string name="tokoh5">
+        LOUIS JACQUES MANDE DAGUERRE ( 1787 – 1851 )\n\n
+Terpisah dari Niepce, mula–mula Deguerre membuat percobaan-percobaan pula untuk membuat permanen hasil pemotretannya.\n
+        Pada tahun 1826 Deguerre berkenalan dengan Niepce.\n
+        Tiga tahun kemudian meraka membuat persetujuan untuk saling menukar pengalaman.\n
+        Sebelum tercapai suatu hasil bersama, Joseph meninggal.\n
+Deguerre melumarkan selapis perak ke atas sebidang tembaga yang dipoles licin,\n
+        kemudian diuapinya dengan iodina dalam kamar gelap. \n
+        Perak yang diuapi dengan uap iodonia inilah yang setelah kering menjadi peka akan cahaya.\n
+        Tembaga dengan bahan peka inilah yang disinarinya dalam kamera selama 30 menit.\n
+        Tembaga yang telah disinari itu diuapinya dengan uap air raksa dalam tabung yang dapat dipanaskan.\n
+        Dari kaca yang berwarna dia dapat melihat perkembangan reaksi yang terjadi sampai gambar yang tadinya laten cukup muncul.\n
+        Gambar ini ditetapkannya dengan hipo.\n
+        Proses yang ditemukan Deguerre ini terkenal dengan nama Dsguerreotipi.\n
+        Penemuan Deguerre ini dibeli oleh pemerintah Prancis dan\n
+        pada tanggal 15 Juni 1839 Raja Louis Phillipe mengukuhkan pembelian penemuan baru itu sebagai hadiah untuk seluruh dunia.\n
+    </string>
+    <string name="tokoh6">
+        WILLIAM HENDRY FOX TALBOT ( 1800 – 1877 )\n\n
+Pada zaman Deguerre, di Inggris William Hendry Fox Talbot giat pula melakukan percobaan ,\n
+        sehingga akhirnya menemuan suatu proses untuk membuat foto dengan pinhole kamera. \n
+        Sehingga bahan peka dia menggunakan perak nitrat kemudian perak chloride. \n
+        Dengan bahan peka tersebut yang di lumarkannya diatas selembar kertas pada tahaun 1855 dia berhasil memotret rumahnya.\n
+        Tidak lama kemudian dia menemukan perak bromida yang jauh lebih peka.\n
+Talbotla yang mula – mula menggunakan obat pengembang untuk menimbulkan bayangan laten dari hasil pemotretannya\n
+        dan kemudian menetapkan gambar yang sudah timbul itu dengan natrium thiosulfat atau\n
+        hipo yang ditemukan oleh John Hershel dalam tahun 1819. \n
+        Sampai sekarang ternyata hipo itumasih digunakan untuk menetapkan.\n
+        Kemudian negativf kertas itu dibuatnya tembus cahaya dengan lilin.\n
+        Dari negatif kertas ini dicetaknya gambar positif pada kertas pula yang sebelumnya dilumarinya dengan perak chlorida ,\n
+        sehingga merupakan sebuah foto. \n
+        Bahan pengembangan yang digunakan cuka gallik,\n
+        proses ini terkenal dengan nama kalotipi yang kemudian disebut juga Talbottipi.\n\n
+Dengan adanya urutan tahap-tahap pengolahan yang dilakukan oleh Talbot dalam menciptakan sebuah foto yaitu memotret,\n
+        mengembangkan bayangan laten, menetapkannya kemudian mencetak foto dari negatif pada selambar kertas yang peka,\n
+        maka lengkaplah tahap-tahap pembuatan foto seperti yang dilakukan sekarang. \n
+        Itulah sebabnya orang sering menyebut Talbot sebagai bapak fotografi moderen,\n
+        walaupun hasil penemuan Talbot pada waktu itu tidak mengimbangi antusiasme orang-orang di Eropa daratan dengan Daguerreotipi.\n
+    </string>
+    <string name="tokoh7">
+        GEORGE EASTMAN ( 1854 – 1932 )\n\n
+Bukan diEropa saja orang giat dalam bidang fotografi yang baru ditemukan itu, akan tetapi juga di Amerika Serikat.\n
+        Salah seorang diantaranya ialah George Easman. \n
+        Dia memulai karirnya dalam bidang fotografi sebagai tukang membuat plat,\n
+        yaitu kaca yang dilumuri dengan gelatin dimana terdapat ahan peka.\n
+        Mula – mula dia hanya dapat membuatnya dalam jumlah yang terbatas saja.\n
+        Dalam tahun 1879 dia berhasil membuat sebuah alat yang dapat membuat peka banyak sekali.\n
+        Ketika tahun 1888 dia memasarkan kamera Box dengan merk Kodak yang mudah cara menggunakannya,\n
+        terjadilah suatu revolusi dalam bidang fotografi.\n
+        Apalagi setelah dia menjual gulungan film dengan alas seluloid pada tahun 1891,\n
+        yang dapat dimasukan ke dalam kamera pada cahaya terang sehingga lebih memudahkan lagi pekerjaan si pemotret.\n
+Hanya kamera dan film yang terjangkau oleh kantong rakyat Indonesia waktu itu,\n
+        maka pada tahun 30-an fotografi sempat menyentuh perhatian beribu-ribu penggemar dinegeri kita ini.\n
+        Demikian populernya fotografi waktu itu sehingga dapat menambah perbendaharaan kata-kata dalam bahasa Indonesia.\n
+        Kamera disebut “Kodak” dan berpotret dikatakan Berkodak\n
+Tidak percuma Easman memilih perkataan Kodak yang tidak ada artinya kecuali maksudnya supaya mudah diingat,\n
+        dan diucapkan oleh semua orang dimuka bumi ini.\n
+        Sukses yang dicapai Easman lebih-lebih karana waktu itu dibanyak Negara dan\n
+        tempat terdapat perwakilannya atau cabang perusahaannya. Disitu orang dapat memproses film yang telah disinari,\n
+        kemudian membuat fotonya dengan ongkos yang tidak mahal. \n
+        Dengan semboyan  You push the button we do rest yang artinya Anda menekan tombol, kami melakukan selebihmya ,\n
+        Kodak menjelajahi dunia dengan jayanya.\n
+    </string>
+    <string name="bapak_photography_indonesia">
+        Kassian Cephas\n\n
+Kassian Cephas (lahir di Kesultanan Ngayogyakarta Hadiningrat, Hindia Belanda,15 Januari 1845\n
+         meninggal di Kesultanan Ngayogyakarta Hadiningrat, Hindia Belanda,\n
+        16 November 1912 pada umur 67 tahun) merupakan fotografer pribumi Jawa\n
+        yang berasal dari Kesultanan Ngayogyakarta Hadiningrat.\n
+        Ia merupakan fotografer profesional pertama dari Indonesia dan magang di bawah bimbingan Hamengkubuwana VI\n
+        (bertakhta 1855–1877).\n
+        Setelah menjadi fotografer Kesultanan pada awal 1871,\n
+        ia memulai bekerja sebagai fotografer potret keluarga Kesultanan\n
+        dan didokumentasikan oleh Persatuan Arkeologi Hindia Belanda (Archaeologische Vereeniging).\n
+        Cephas turut berkontribusi melestarikan budaya Jawa melalui keanggotaannya di KITLV dan,\n
+        mendapat penghargaan medali emas kehormatan dari Orde van Oranje-Nassau.\n
+        Cephas dan istrinya Dina Rakijah memiliki empat anak.\n
+        Putra pertamanya, Sem Cephas, meneruskan bisnis fotografi ayahnya hingga meninggal tahun 1918\n
+    </string>
+    <string name="bapak_photography_dunia">
+        Louis Daguerre dilahirkan tahun 1787 di kota Cormeilles di Perancis Utara.\n
+        Waktu mudanya dia seniman. \n
+        Pada umur pertengahan tiga puluhan dia merancang diograma,\n
+        barisan lukisan pemandangan yang mempesona bagusnya,\n
+        dipertunjukkan dengan bantuan efek cahaya.\n
+        Sementara dia menggarap pekerjaan itu,\n
+        dia menjadi tertarik dengan pengembangan suatu mekanisme\n
+        untuk secara otomatis melukiskan kembali pemandangan yang ada di dunia tanpa menggunakan kwas atau cat.\n
+        Dengan kata lain: kamera! Tingkat pertama perancangan alat kamera yang bisa berfungsi tidak berhasil. \n
+        Di tahun 1827 dia ketemu Joseph Nicephore Niepce yang juga sedang mencoba (dan sejauh itu lebih sukses) menciptakan kamera.\n
+        Dua tahun kemudian mereka menjadi kongsi.\n
+Biografi Louis  Daguerre - Penemu Kamera Fotografi\n
+Di tahun 1833 Niepce meninggal, tetapi Daguerre tetap tekun meneruskan percobaannya.\n
+        Menjelang tahun 1837 dia sudah berhasil mengembangkan sebuah sistem praktis fotografi yang disebutnya daguerreotype.\n
+    </string>
+
+
+
+</resources>
